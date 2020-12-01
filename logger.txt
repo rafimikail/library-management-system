@@ -1,0 +1,56 @@
+rafi just logged in as a Member
+mikail just logged in as a Head Librarian
+A new category of book (TestCat) has been created
+A new book (Book Test) has been created
+A new book (book123) has been created
+A book (book test) has been deleted
+TestCatjust has been deleted from book categories
+kayvan3 just logged in as a Member
+kayvan3 just logged in as a Member
+kayvan3 just logged in as a Member
+kayvan just loggied in as a Librarian
+kayvan just loggied in as a Librarian
+mikail just logged in as a Head Librarian
+A book (asd) has been deleted
+member2 just logged in as a Member
+member2 just logged in as a Member
+member3 just logged in as a Member
+A new category of book (testCAT) has been created
+asdjust has been deleted from book categories
+kayvan just loggied in as a Librarian
+A new category of book (TestCat 2) has been created
+testCATjust has been deleted from book categories
+A new book (test book) has been created
+kayvan just loggied in as a Librarian
+kayvan just loggied in as a Librarian
+A new book (testbook 3) has been created
+A book (test book) has been deleted
+kayvan just loggied in as a Librarian
+kayvan just loggied in as a Librarian
+A book (testing) has been deleted
+A book (born a crime) was returned
+A book (null) was returned
+A book (born a crime) was returned
+A book (born a crime) was returned
+A book (Hamlet) was borrowed
+A book (Macbeth) was borrowed
+A book (Hamlet) was returned
+kayvan just loggied in as a Librarian
+kayvan just loggied in as a Librarian
+A new category of book (Fantasy) has been created
+A new book (fantasy book) has been created
+asd just logged in as a Member
+kayee just logged in as a Member
+member3 just logged in as a Member
+A new category of book (testCat) has been created
+testcat 3just has been deleted from book categories
+A new book (test book) has been created
+A book (test book 2) has been deleted
+mikail just logged in as a Head Librarian
+member2 just logged in as a Member
+kayvan logged out as Librarian on 2019-05-29T17:32:20.609Z
+kayvan just loggied in as a Librarian
+kayvan logged out as Librarian on 2019-05-29T22:35:37.472Z
+kayvan just loggied in as a Librarian
+kayvan logged out as Librarian on 2019-05-29T22:37:17.723Z
+kayvan just log in in as a Librarian on 2019-05-29T22:37:08.950Z
